@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11877" started-at="2020-09-02T19:02:57 IST" finished-at="2020-09-02T19:03:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11877" started-at="2020-09-02T19:02:57 IST" finished-at="2020-09-02T19:03:09 IST">
+      <class name="practicesel.TestActions">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:practicesel.TestActions@159f197]" name="initializeDriver" duration-ms="11830" started-at="2020-09-02T19:02:57 IST" finished-at="2020-09-02T19:03:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+      </class> <!-- practicesel.TestActions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
